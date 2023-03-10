@@ -10,6 +10,12 @@ matplotlib = "*"
 folium = "*"
 ipython = "*"
 jupyter = "*"
+numpy = "*"
+haversine = "*"
+plotly = "*"
+requests = "*"
+oauthlib = "*"
+requests-oauthlib = "*"
 
 [dev-packages]
 
